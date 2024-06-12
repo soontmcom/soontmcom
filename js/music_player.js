@@ -6,7 +6,8 @@ document.addEventListener("DOMContentLoaded", function() {
         { src: 'sounds/music1.mp3', name: '"I Dont Care" by VIOLENT VIRA' },
         { src: 'sounds/music2.mp3', name: '"God Complex" by VIOLENT VIRA, Prod. Anticøn' },
         { src: 'sounds/music3.mp3', name: '"Tarantula Girl" by VIOLENT VIRA' },
-        { src: 'sounds/music4.mp3', name: 'Youre Not Gone, Youre Just Dead! by VIOLENT VIRA'}
+        { src: 'sounds/music4.mp3', name: 'Youre Not Gone, Youre Just Dead! by VIOLENT VIRA'},
+        { src: 'sounds/music5.mp3', name: 'I Dont Wanna Be Me by Type 0 Negative'}
     ];
 
     let currentSongIndex = 0;
